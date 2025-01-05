@@ -1,0 +1,14 @@
+C:\Users\egmis\Desktop\c# beginner projects\bin\Debug\net9.0\c# beginner projects.exe
+C:\Users\egmis\Desktop\c# beginner projects\bin\Debug\net9.0\c# beginner projects.deps.json
+C:\Users\egmis\Desktop\c# beginner projects\bin\Debug\net9.0\c# beginner projects.runtimeconfig.json
+C:\Users\egmis\Desktop\c# beginner projects\bin\Debug\net9.0\c# beginner projects.dll
+C:\Users\egmis\Desktop\c# beginner projects\bin\Debug\net9.0\c# beginner projects.pdb
+C:\Users\egmis\Desktop\c# beginner projects\obj\Debug\net9.0\c# beginner projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egmis\Desktop\c# beginner projects\obj\Debug\net9.0\c# beginner projects.AssemblyInfoInputs.cache
+C:\Users\egmis\Desktop\c# beginner projects\obj\Debug\net9.0\c# beginner projects.AssemblyInfo.cs
+C:\Users\egmis\Desktop\c# beginner projects\obj\Debug\net9.0\c# beginner projects.csproj.CoreCompileInputs.cache
+C:\Users\egmis\Desktop\c# beginner projects\obj\Debug\net9.0\c# beginner projects.dll
+C:\Users\egmis\Desktop\c# beginner projects\obj\Debug\net9.0\refint\c# beginner projects.dll
+C:\Users\egmis\Desktop\c# beginner projects\obj\Debug\net9.0\c# beginner projects.pdb
+C:\Users\egmis\Desktop\c# beginner projects\obj\Debug\net9.0\c# beginner projects.genruntimeconfig.cache
+C:\Users\egmis\Desktop\c# beginner projects\obj\Debug\net9.0\ref\c# beginner projects.dll
