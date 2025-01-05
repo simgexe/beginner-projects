@@ -44,6 +44,10 @@ namespace Games
                     Hangman.Start();
                     break;
                 case "7":
+                    var TicTacToe = new TicTacToe();
+                    TicTacToe.Start();
+                    break;
+                case "8":
                 Console.WriteLine("Exiting the program. Goodbye!");
                 break;
                 default:
