@@ -8,7 +8,7 @@ namespace Games
         {
             int num1;
             int num2;
-            int result;
+            float result;
             string answer;
 
             Console.WriteLine("Hello, welcome to the calculator!");
@@ -20,7 +20,7 @@ namespace Games
 
             Console.WriteLine("What type of operation would you like to do?");
             Console.WriteLine("Enter 'a' for addition, 's' for subtraction, 'm' for multiplication, 'd' for division:");
-            answer = Console.ReadLine();
+            answer = Console.ReadLine().ToLower();
 
             if (answer == "a")
             {
@@ -34,15 +34,16 @@ namespace Games
             {
                 result = num1 * num2;
             }
-            else if (answer == "d")
+            else 
             {
-                result = num1 / num2;
+                result = num2 == 0 ? float.NaN : (float)num1 / num2;
             }
-            else
+            if(float.IsNaN(result))
             {
-                Console.WriteLine("Invalid operation.");
+                Console.WriteLine("Cannot divide by zero.");
                 return;
             }
+            
 
             Console.WriteLine("The result is: " + result);
             Console.WriteLine("Thank you for using the calculator!");
